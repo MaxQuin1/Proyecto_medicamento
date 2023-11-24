@@ -8,3 +8,6 @@ Dependencias que descargar en BACK
 Para correr FRONT 
 nmp i
 npm start
+
+NOTAS IMPORTANTES
+Al agegar un medicamento te redirige al home pero no se verá hasta que confirmes en medicamentos pendientes.
